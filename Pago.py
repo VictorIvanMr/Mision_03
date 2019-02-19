@@ -1,5 +1,5 @@
 #Víctor Iván Morales Ramos A01377601
-#Descripción:
+#Descripción: Calcular el pago total coonn y sin horas extra en un trabajo
 
 #Función que calcula el pago normal
 def calcularPagoNormal(hn, he, ph):
